@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "A sleek Android-style scientific calculator with dark mode interface and advanced mathematical functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
